@@ -13,7 +13,12 @@
   "author": "Eduardo Russo",
   "license": "MIT",
   "homepage": "git+https://github.com/moblets/m-moblet-base.git#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^2.8.0",
+    "eslint-config-google": "^0.5.0",
+    "eslint-plugin-jsdoc": "^2.3.1",
+    "jsdoc": "^3.4.0"
+  },
   "keywords": [
     "example",
     "base",

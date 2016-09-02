@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:moblets/m-moblet-base.git"
+    "url": "git+https://github.com/moblets/m-moblet-base.git"
   },
   "author": "Eduardo Russo",
   "license": "MIT",
-  "homepage": "https://bitbucket.org/fabappteam/fidelity-card#readme",
+  "homepage": "git+https://github.com/moblets/m-moblet-base.git#readme",
   "devDependencies": {},
   "keywords": [
     "example",
